@@ -71,7 +71,7 @@ font-family:ravie;
 <img src="http://img.ifreepic.com/930/32930_icon.jpg" alt="Dog anime" style="width:304px;height:228px;" id="imagen">
 <img src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" alt="Dog anime" style="width:50px;height:40px;" id="indicacion"><label id="indicacion">De click en la huella de lo que quiera ingresar </label>
 <br><br><input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras" onclick="nueva(http://localhost/ProyectoFinal/informacion.php)"><label id="letras">Informacion de Servicios </label><br><br>
-<input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras">Registro </label> <br><br>
+<input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras"><a href="registro.php" target="_blank"> Registro</a> </label> <br><br>
 <input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras">Usuario Ocasional </label> <br><br>
 <input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras">Promociones </label> <br><br>
 <input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras">Galeria </label> <br><br>
