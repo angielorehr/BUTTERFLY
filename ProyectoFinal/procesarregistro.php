@@ -14,5 +14,7 @@ $cadena="INSERT INTO `formulario`.`registro`
 `clave`,
 `confirmacion`)
 VALUES
-('".$_REQUEST['nombreMascota']."','".$_REQUEST['edadMascota']."','".$_REQUEST['nombrePropietario']."','".$_REQUEST['telefonoFijo']."','".$_REQUEST['telefonoCelular']."','".$_REQUEST['direccion']."','".$_REQUEST['email']."','".$_REQUEST['NumeroDeIdentificacion']."','".$_REQUEST['estrato']."',".$_REQUEST['clave'].",".$_REQUEST['confirmacion'].")";
+('".$_REQUEST['nombrem']."','".$_REQUEST['edadm']."','".$_REQUEST['nombrep']."','".$_REQUEST['telefonof']."','".$_REQUEST['telefonoc']."','".$_REQUEST['direccion']."','".$_REQUEST['email']."','".$_REQUEST['numiden']."','".$_REQUEST['estrato']."','".$_REQUEST['clave']."','".$_REQUEST['clave']."')";
+
+echo $cadena;
 mysqli_query($enlace, $cadena);
