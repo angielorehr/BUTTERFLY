@@ -66,16 +66,15 @@ font-family:ravie;
 </style>
 <form onsubmit="return mensaje()">
     
-  <input type="submit" value="SIGN IN" id="boton">  
+    <input type="submit" value="SIGN IN" id="boton"<a href="signIn.php" target="_blank"></a>>  
 <label id="titulo">HOTEL CANINO- K9 SUITE! </label><br><br> 
 <img src="http://img.ifreepic.com/930/32930_icon.jpg" alt="Dog anime" style="width:304px;height:228px;" id="imagen">
 <img src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" alt="Dog anime" style="width:50px;height:40px;" id="indicacion"><label id="indicacion">De click en la huella de lo que quiera ingresar </label>
-<br><br><input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras" onclick="nueva(http://localhost/ProyectoFinal/informacion.php)"><label id="letras">Informacion de Servicios </label><br><br>
+<br><br><input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras" onclick="nueva(http://localhost/ProyectoFinal/informacion.php)"><label id="letras"><a href="informacion.php" target="_blank">Informacion de Servicios </a></label><br><br>
 <input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras"><a href="registro.php" target="_blank"> Registro</a> </label> <br><br>
-<input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras">Usuario Ocasional </label> <br><br>
-<input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras">Promociones </label> <br><br>
-<input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras">Galeria </label> <br><br>
-<input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras">Cuidados especiales para su mascota </label> <br><br>
+<input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras"><a href="usarioOcasional.php" target="_blank">Usuario Ocasional</a> </label> <br><br>
+<input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras"><a href="galeria.php" target="_blank">Galeria </a> </label> <br><br>
+<input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras"><a href="razas.php" target="_blank">Cuidados especiales para su mascota </a> </label> <br><br>
 
 
 
