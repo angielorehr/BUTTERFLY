@@ -44,7 +44,9 @@ font-family:ravie;
     .miBoton{
         margin:0 auto;
         width:20%;
-        border: solid #269abc 1px;
+        position: relative;
+        top: 100px;
+        left:300px;
         
         
     }

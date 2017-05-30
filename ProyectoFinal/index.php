@@ -24,7 +24,7 @@ and open the template in the editor.
 </script>
 <form onsubmit="return mensaje()" action="signIn.php" >
     <div class='miBoton'>
-<input type="submit" value="SIGN IN" class='btn btn-primary'/>  
+<input type="submit" value="SIGN IN" class='btn btn-info'/>  
     </div>
     <div>
 <label id="titulo">HOTEL CANINO- K9 SUITE! </label><br><br> 
@@ -34,7 +34,6 @@ and open the template in the editor.
 <input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras"><a href="registro.php" target="_blank"> Registro</a> </label> <br><br>
 <input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras"><a href="usarioOcasional.php" target="_blank">Usuario Ocasional</a> </label> <br><br>
 <input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras"><a href="galeria.php" target="_blank">Galeria </a> </label> <br><br>
-<input type=image src="https://image.freepik.com/iconos-gratis/huella-de-perro-en-un-corazon_318-38076.jpg" width="50" height="40" id="letras"><label id="letras"><a href="razas.php" target="_blank">Cuidados especiales para su mascota </a> </label> <br><br>
 </div>
 
 
