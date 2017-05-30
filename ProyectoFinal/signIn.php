@@ -44,15 +44,15 @@ font-family:arial;
     font-family:freestyle script;
        }  
 </style>
-        <form  action="procesarSignIn.php">
+        <form  action="procesarSignIn.php" enctype="multipart/form-data" action="uploader.php" method="POST">
 <label id="titulo">HOTEL CANINO- K9 SUITE! </label><br><br>     
 <div class="centrado">
 <label id="letras">Nombre mascota: </label> 
 <input type="text" name="nombrem" id="cuadro"><br><br>
 <label id="letras">Nombre propietario: </label> 
-<input type="text" name="edadm" id="cuadro"><br><br>
-<label id="letras">Clave: </label> 
 <input type="text" name="nombrep" id="cuadro"><br><br>
+<label id="letras">Clave: </label> 
+<input type="text" name="clave" id="cuadro"><br><br>
 <input type="submit" value="SIGN IN" id="botonr">
 </div>
         </form>
