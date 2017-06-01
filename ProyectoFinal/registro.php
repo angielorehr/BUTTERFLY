@@ -66,7 +66,7 @@ font-family:arial;
     font-family:freestyle script;
        }  
 </style>
-<form onsubmit="return mensaje()" action="procesarregistro.php" enctype="multipart/form-data" action="uploader.php" method="POST">
+<form onsubmit="return mensaje()" action="procesarregistro.php"  enctype="multipart/form-data" action="uploader.php" method="POST">
 <label id="titulo">HOTEL CANINO- K9 SUITE! </label><br><br>     
 <div class="centrado">
 <label id="letras">Nombre mascota: </label> 
